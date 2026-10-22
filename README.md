@@ -10,7 +10,7 @@ Versions 19, 20, 21, 22, 23, 24, 25, 26, 29 and 31 should function.
 The code is based off the Torque3D source code so adding in newer versions should be relatively easy
 
 ## Installation
-1. Grab the latest `io_scene_dtst3d.zip` here [https://github.com/PrzemekWolw/DynamixThreeSpaceBlenderAddon/releases](https://github.com/Antonkrd1/DynamixThreeSpaceBlenderAddon/releases)
+1. Grab the latest `io_scene_dtst3d.zip` here github.com/Antonkrd1/DynamixThreeSpaceBlenderAddon/releases
 2. In Blender, select Edit > Preferences
 3. Select the Add-Ons tab
 4. Click Install in the top right corner
